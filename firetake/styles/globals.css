@@ -70,8 +70,9 @@ button.btn-red {
 }
 
 button.btn-green {
-  background-color: var(--color-green);
-  color: white;
+  background-color: #1E1E1E;
+  float: right;
+  color: rgb(255, 255, 255);
 }
 
 button.btn-google {
