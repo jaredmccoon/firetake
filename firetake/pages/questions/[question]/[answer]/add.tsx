@@ -6,6 +6,7 @@ export default function Add_comment() {
     return(
         <div className={styles.main}>
             <div className={styles.container}>
+                <a href="" className={styles.back}>back</a>   
                 <div className={styles.title}>
                     <p>Add a question</p>
                 </div>
